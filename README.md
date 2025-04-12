@@ -34,14 +34,9 @@ This project focuses on analyzing football-related data using Python and NVIDIA 
 3. Execute the cells to perform the analysis
 
 ## 🎬 Demo
-Check out our project demo video below:
+Check out our project demo video: [Download Demo Video](result%20(5).mp4)
 
-<video width="100%" controls>
-  <source src="result (5).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-*The video is embedded directly in this page for easy viewing*
+*Click the link above to download and view the demo video*
 
 ## 📦 Requirements
 See `requirements.txt` for a complete list of dependencies.
