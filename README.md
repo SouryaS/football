@@ -36,10 +36,12 @@ This project focuses on analyzing football-related data using Python and NVIDIA 
 ## 🎬 Demo
 Check out our project demo video below:
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/Sourya Sarkar/foot/blob/main/result%20(5).mp4?raw=true" type="video/mp4">
+<video width="100%" controls>
+  <source src="result (5).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+*The video is embedded directly in this page for easy viewing*
 
 ## 📦 Requirements
 See `requirements.txt` for a complete list of dependencies.
